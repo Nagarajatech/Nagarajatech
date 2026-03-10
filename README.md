@@ -1,5 +1,4 @@
 ## Hi there 👋
-proud of my self
 <!--
 **Nagarajatech/Nagarajatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
